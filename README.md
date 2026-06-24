@@ -1,6 +1,6 @@
 # 💀 Jogo da Forca
 
-**Seu Nome Completo**
+**Kauan Pereira Rocha**
 
 Jogo da Forca desenvolvido em JavaScript (Node.js) para o terminal, como atividade da disciplina WEB.
 
