@@ -1,0 +1,11 @@
+{
+  "name": "jogo-da-forca",
+  "version": "1.0.0",
+  "description": "Jogo da Forca em Node.js para o terminal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["jogo", "forca", "nodejs", "terminal"],
+  "license": "MIT"
+}
